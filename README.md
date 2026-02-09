@@ -1,1 +1,1 @@
-Code snippets to test Meilisearch with its Rust SDK (adapted from the official tutorial[here](https://www.meilisearch.com/docs/learn/self_hosted/getting_started_with_self_hosted_meilisearch) )
+Code snippets to test Meilisearch with its Rust SDK (adapted from the official tutorial [here](https://www.meilisearch.com/docs/learn/self_hosted/getting_started_with_self_hosted_meilisearch) )
